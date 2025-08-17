@@ -20,7 +20,6 @@ I'm passionate about **Python**, **Machine Learning**, and **Deep Learning**. My
 
 ## 📫 How to Reach Me
 - [GitHub](https://github.com/ashvin-to)
-- *(Add your email or other socials if you wish)*
 
 ---
 
